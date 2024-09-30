@@ -2714,6 +2714,7 @@ img {
 }
 
 .logo {
+  width: 100%;
   max-width: 12rem;
 }
 
@@ -3008,7 +3009,6 @@ img {
 }
 
 .logo-wrapper.logo-wrapper-2 {
-  margin-left: 1.5625rem;
   transform: translate(100%);
 }
 
@@ -3419,6 +3419,10 @@ img {
   width: 42%;
   position: absolute;
   inset: auto 0% 0% auto;
+}
+
+.university-logo {
+  height: 100%;
 }
 
 @media screen and (min-width: 1280px) {
